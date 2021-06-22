@@ -4,8 +4,9 @@ Nothing much
 
 ## How to run
 
+```
 kubect apply -f create-deployment.yaml
-
+```
 ```kubectl get deployments
 NAME                 READY   UP-TO-DATE   AVAILABLE   AGE
 my-app-deployment1   1/1     1            1           9m50s
