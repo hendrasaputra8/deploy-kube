@@ -1,4 +1,4 @@
-# Hello World Sample App using kubernetes 
+# Hello World Sample App using kubernetes by hitlur
 
 Nothing much
 
