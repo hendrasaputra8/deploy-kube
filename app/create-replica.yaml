@@ -19,7 +19,7 @@ spec:
             - name: PORT
               value: "8080"
             - name: MYSQL_CONN_STRING
-              value: "root:tanyahitlur.1@tcp(my-service2.default.svc.cluster.local:3306)/hello_world?parseTime=true"
+              value: "root:tanyahitlur@tcp(my-service2.default.svc.cluster.local:3306)/hello_world?parseTime=true"
             - name: INSTANCE_ID
               valueFrom:
                 fieldRef:
